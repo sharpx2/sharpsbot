@@ -10,7 +10,7 @@ client.on('ready', async() => {
   rpcGenerator.getRpcImage('729393447303381042', 'bentei')
       .then(image => {
         let presence = new rpcGenerator.Rpc()
-        .setName("Love,")
+        .setName("Bad Energy ⚡")
         .setUrl("https://twitch.tv/discord")
         .setType("STREAMING")
         .setApplicationId("729393447303381042")
